@@ -1,0 +1,19 @@
+body {
+    background-color: crimson;
+}
+
+.reg-forma {
+    position: center;
+    display: block;
+    margin: auto;
+    width: 30%;
+}
+
+.reg-forma label {
+    float: left;
+}
+
+.form-item {
+    margin: 3% 2vw;
+    float: right;
+}
