@@ -6,6 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "node": "10.15.2",
     "bcrypt": "3.0.5",
     "connect-pg-simple": "^6.1.0",
     "controllers": "0.0.2",
